@@ -1,5 +1,5 @@
 ---
-excerpt: "In order to grow in your professional career, you need to adopt the growth mindset."
+excerpt: "In order to grow in your professional career, you need to adopt the growth mindset..."
 ---
 
 # Growth Mindset
