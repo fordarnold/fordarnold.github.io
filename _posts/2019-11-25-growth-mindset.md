@@ -2,7 +2,7 @@
 
 In order to grow in your professional career, you need to adopt the growth mindset. You must be able to view challenges as an opportunity to be better... not as an obstacle. You need to also be willing to leverage the resources you have around you to learn and do what it takes to accomplish a task or a goal. 
 
-### A Recent Learning Experience
+## A Recent Learning Experience
 
 Recently, I have been on a career path that has led me to try my luck with Andela, a technology company that is building engineering teams with top software developers in Africa. It all started with my application for the Andela Kigali Bootcamp...
 
