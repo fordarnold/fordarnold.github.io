@@ -1,6 +1,6 @@
 # Welcome
 
-In this blog, I write about my experiences in my professional career in the software development industry of Africa.
+In this blog, I write about my experiences with my professional career in the software development industry of Africa.
 
 ### Blog Posts
 
