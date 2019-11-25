@@ -1,8 +1,10 @@
+---
+excerpt: "In order to grow in your professional career, you need to adopt the growth mindset."
+---
+
 # Growth Mindset
 
-In order to grow in your professional career, you need to adopt the growth mindset. 
-
-You must be able to view challenges as an opportunity to be better... not as an obstacle. You need to also be willing to leverage the resources you have around you to learn and do what it takes to accomplish a task or a goal. 
+In order to grow in your professional career, you need to adopt the growth mindset. You must be able to view challenges as an opportunity to be better... not as an obstacle. You need to also be willing to leverage the resources you have around you to learn and do what it takes to accomplish a task or a goal. 
 
 ## A Recent Learning Experience
 
