@@ -1,8 +1,9 @@
 ---
-excerpt: "My reflections on Andela's EPIC values"
+title: "My reflections on Andela's EPIC values"
+excerpt: "Excellence, Passion, Integrity and Collaboration"
 ---
 
-# Excellence, Passion, Integrity and Collaboration
+# My reflections on Andela's EPIC values
 
 In this post, I try to explain what I understand by the EPIC values at Andela. I believe that if someone can apply these values to their daily life _(not just in professional life, but also in personal life)_, they will be able to achieve success in even the biggest goals they set for themselves.
 
