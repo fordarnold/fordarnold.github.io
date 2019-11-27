@@ -5,11 +5,13 @@ excerpt: "Excellence, Passion, Integrity and Collaboration"
 
 # Andela's EPIC Values
 
-In this post, I try to explain what I understand by the EPIC values at Andela. I believe that if someone can apply these values to their daily life _(not just in professional life, but also in personal life)_, they will be able to achieve success in even the biggest goals they set for themselves.
+In this post, I will be explaining what I understand by the EPIC values at Andela. I believe that if someone can apply these values to their daily life _(not just in professional life, but also in personal life)_, they will be able to achieve success in even the biggest goals they set for themselves.
 
 ## Excellence
 
 > _With this life approach, I aspire to be the best possible version of myself. I know that my work is a representation of who I am, and I hold everything I do and everyone I interact with to the highest standards. I am a lifelong learner who strives for mastery of my craft._
+
+![Excel](/assets/excellence.jpg)
 
 In my opinion, excellence is a daily commitment. It means that you take every new day as a chance to keep improving your life. 
 
