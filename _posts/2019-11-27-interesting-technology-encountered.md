@@ -13,4 +13,6 @@ As a software deveoper who has worked as a freelancer on client projects, I have
 
 The idea behind Pivotal Tracker is quite easy to understand which makes it easy to learn and teach to even someone with no experience using project management tools. Once you've learnt how to post stories, how to choose whether a story is a feature or a chore or a bug, and how to estimate the complexity of a story, you can then begin to collaborate with your development team and the client easily. Also, you only need one or two days to be able to teach the client how to use it.
 
-![Teamwork](/assets/pivotal-tracker-board.png)
+![Tracker board](/assets/pivotal-tracker-board.png)
+
+Pivotal Tracker is a story-based project planning tool that takes its inspiration from agile software methods. Agile software is updated regularly with incremental changes instead of one big update, with the goal of providing faster and more responsive software. If a software company uses the Agile methodology, Pivotal Tracker is an ideal tool for project management in that company.
